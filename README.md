@@ -1,4 +1,4 @@
-###About
+### About
 
 This project utilizes hneemann's [Digital](https://github.com/hneemann/Digital "Digital") to build a processor specialized for scalar multiplication. 
 
